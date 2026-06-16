@@ -1,7 +1,7 @@
 # Hi, I'm Rajendra Chappidi 👋
 
 **Java Full Stack Developer** at **Hexaware Technologies**, Hyderabad 🇮🇳  
-3+ years building scalable, production-ready web applications with Spring Boot and Angular.
+4.5+ years building scalable, production-ready web applications with Spring Boot and Angular.
 
 ---
 
